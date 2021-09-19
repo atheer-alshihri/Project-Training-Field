@@ -1,0 +1,11 @@
+"In this project, a system has been built that serves the owner of the company to record many 
+projects and then add sales and purchases information for each project, where later he can 
+see whether the project has won or lost, and also in another interface to explore all the data 
+in a specific project, also if he no longer needs the project, he deletes it.
+The system was built using the Visual Basic for Applications (VBA) programming 
+language, which is a programming language produced by Microsoft and used to develop 
+programs through which you control other programs such as all Office programs, 
+AutoCAD, and others.
+In the system, it was used with the Excel program to give it additional power to use it to 
+add new features to it and to serve the end-user with ease and comfort."
+To open the micro and view the project interfaces, press "F11+Alt" or "F11+Alt+Fn".
